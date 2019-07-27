@@ -1,6 +1,5 @@
 # SQLiv v2.0
-# Ghost (github.com/Hadesy2k)
-# official.ghost@tuta.io
+# Ghost (https://github.com/nu11secur1ty)
 
 import argparse
 from urlparse import urlparse
