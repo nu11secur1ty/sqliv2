@@ -26,6 +26,13 @@ LABEL org.label-schema.build-date=$BUILD_DATE \
       MAINTAINER="Steev Klimaszewski <steev@kali.org>"
 RUN echo "deb http://http.kali.org/kali kali-rolling main contrib non-free" > /etc/apt/sources.list && \
     echo "deb-src http://http.kali.org/kali kali-rolling main contrib non-free" >> /etc/apt/sources.list
+    
+    RUN apt-get update && \
+    apt-get upgrade -y && \
+    apt-get install -y git
+    
+    RUN git clone https://github.com/nu11secur1ty/sqliv2
+    
 ENV DEBIAN_FRONTEND noninteractive
 RUN set -x \
     && apt-get -yqq update \
