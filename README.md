@@ -26,7 +26,7 @@ SQLiv nu11secur1ty@mode
 > - [nyawc](https://pypi.python.org/pypi/nyawc/)
 
 **installed Systems**
-- ![Kali Linux](https://www.kali.org/) ![Kali](https://www.kali.org/wp-content/uploads/2015/09/kali-2.0-website-logo.png)
+- [Kali Linux](https://www.kali.org/) ![Kali](https://www.kali.org/wp-content/uploads/2015/09/kali-2.0-website-logo.png)
 
 
 - Installation of packages
