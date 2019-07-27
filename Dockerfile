@@ -1,4 +1,5 @@
-FROM python:2-slim
+#FROM python:2-slim
+FROM python:2
 
 RUN apt update && apt install -y git
 
