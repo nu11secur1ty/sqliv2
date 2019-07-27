@@ -16,7 +16,7 @@ SQLiv nu11secur1ty@mode
 ---
 
 **Installation**  
-1. git clone https://github.com/nu11secur1ty/SQLIV.git
+1. git clone https://github.com/nu11secur1ty/sqliv2
 2. sudo python2 setup.py -i
 
 > Dependencies  
