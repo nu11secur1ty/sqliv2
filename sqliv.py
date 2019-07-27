@@ -1,4 +1,4 @@
-# SQLiv v2.0
+# SQLiv v2.1
 # Ghost (https://github.com/nu11secur1ty)
 
 import argparse
