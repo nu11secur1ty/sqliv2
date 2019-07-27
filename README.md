@@ -26,7 +26,7 @@ SQLiv nu11secur1ty@mode
 > - [nyawc](https://pypi.python.org/pypi/nyawc/)
 
 **installed Systems**
-- [BlackArch Linux](https://blackarch.org/scanner.html) ![BlackArch](https://raw.githubusercontent.com/BlackArch/blackarch-artwork/master/logo/logo-38-49.png)
+- [Kali Linux](https://blackarch.org/scanner.html) ![Kali](https://www.kali.org/wp-content/uploads/2015/09/kali-2.0-website-logo.png)
 
 
 - Installation of packages
