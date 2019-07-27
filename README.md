@@ -93,6 +93,3 @@ optional arguments:
 
 ---
 
-### Development
-**TODO**  
-1. POST form SQLi vulnerability testing
