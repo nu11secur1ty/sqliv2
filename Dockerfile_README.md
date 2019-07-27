@@ -2,7 +2,7 @@
 
 ## Source
 
-https://github.com/Hadesy2k/sqliv
+https://github.com/nu11secur1ty/SQLIV
  
 ## Usage:
 
