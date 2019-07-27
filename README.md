@@ -35,10 +35,6 @@ pip2 install termcolor
 pip2 install tabulate
 pip2 install terminaltables
 ```
-
-**Pre-installed Systems**  
-- [BlackArch Linux](https://blackarch.org/scanner.html) ![BlackArch](https://raw.githubusercontent.com/BlackArch/blackarch-artwork/master/logo/logo-38-49.png)
-
 ---
 ### Quick Tutorial  
 **1. Multiple domain scanning with SQLi dork**  
