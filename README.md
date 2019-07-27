@@ -1,4 +1,4 @@
-SQLiv
+SQLiv nu11secur1ty@mode
 ===
 
 ### Massive SQL injection scanner  
