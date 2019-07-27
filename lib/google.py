@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python
 
 # Python bindings to the Google search engine
 # Copyright (c) 2009-2016, Mario Vilas
