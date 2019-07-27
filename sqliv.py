@@ -1,5 +1,6 @@
 # SQLiv v2.1
-# Ghost (https://github.com/nu11secur1ty)
+# Ghost the-robot
+# Modified by nu11secur1ty
 
 import argparse
 from urlparse import urlparse
