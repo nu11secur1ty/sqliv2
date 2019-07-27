@@ -83,10 +83,7 @@ optional arguments:
 
 ---
 ### screenshots
-![1](https://raw.githubusercontent.com/Hadesy2k/sqliv/master/screenshots/1.png)
-![2](https://raw.githubusercontent.com/Hadesy2k/sqliv/master/screenshots/2.png)
-![3](https://raw.githubusercontent.com/Hadesy2k/sqliv/master/screenshots/3.png)
-![4](https://raw.githubusercontent.com/Hadesy2k/sqliv/master/screenshots/4.png)
+
 
 ---
 
