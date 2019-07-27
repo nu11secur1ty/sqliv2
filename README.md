@@ -25,7 +25,7 @@ SQLiv nu11secur1ty@mode
 > - [google](https://pypi.python.org/pypi/google)
 > - [nyawc](https://pypi.python.org/pypi/nyawc/)
 
-- Installing of packages
+- Installation of packages
 
 ```bash
 pip install google
