@@ -4,9 +4,10 @@
 # !!! Special greetz for my friend sinner_01 !!!
 # Toolname        : darkd0rk3r.py
 # Coder           : baltazar a.k.a b4ltazar < b4ltazar@gmail.com>
-# Version         : 1.0
-# greetz for all members of ex darkc0de.com, ljuska.org 
-# 
+# Redistribution and development    : nu11secyr1ty
+# Version         : 1.0,1
+ 
+ 
 
 import string, sys, time, urllib2, cookielib, re, random, threading, socket, os, subprocess
 from random import choice
