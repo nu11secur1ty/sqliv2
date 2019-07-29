@@ -24,8 +24,8 @@ B  = "\033[34m";
 def logo():
 	print R+"\n|---------------------------------------------------------------|"
         print "| b4ltazar[@]gmail[dot]com                                      |"
-        print "|   09/2012     darkd0rk3r.py  v.1.0                            |"
-        print "|              b4ltazar.us                                      |"
+        print "|   09/2012     darkd0rk3r.py  v.1.0,1                          |"
+        print "|              b4ltazar.us & nu11secur1ty                       |"
         print "|                                                               |"
         print "|---------------------------------------------------------------|\n"
 	print W
